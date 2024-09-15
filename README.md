@@ -1,6 +1,8 @@
 # Najeeb-AI ✨֎
 
+<p align="center">
 <img src="assets/najeeb-logo.png" alt="Project Screenshot" width="475">
+</p>
 
 # Description
 
