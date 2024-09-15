@@ -1,4 +1,4 @@
-# Najeeb-AI ✨🚘
+# Najeeb-AI ✨֎
 
 <img src="assets/najeeb-logo.png" alt="Project Screenshot" width="475">
 
