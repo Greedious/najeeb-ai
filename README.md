@@ -23,3 +23,6 @@ insurance companies and medical facilities
 - NestJS.
 - PostgreSQL.
 - Prisma ORM.
+
+## Preview
+Cannot be shared due to Non-Disclosure Agreement with the client.
